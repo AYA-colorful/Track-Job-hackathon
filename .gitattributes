@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto#hello
 #こんにちは
+# This is a comment with Unicode characters
