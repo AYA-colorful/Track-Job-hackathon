@@ -22,7 +22,7 @@ if st.session_state.page == 'main':
         navigate_to('results and reset ')
 
 #「タスク入力管理」の画面
-
+#各項目の入力
 
 
 #「引き継ぎ希望申請」の画面
